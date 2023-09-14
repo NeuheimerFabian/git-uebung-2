@@ -35,4 +35,50 @@ body {
     border-radius: 10px;
     border-color: black;
   }
+
+  /* Menü-Tabelle */
+  .menu-table {
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+  }
+  
+  .menu-table td {
+    padding: 20px;
+    vertical-align: top;
+    text-align: center;
+  }
+  
+  /* Menü-Listen */
+  .menu-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-list li {
+    margin-bottom: 20px;
+  }
+  
+  .menu-list h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .menu-list p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Horizontale Listen */
+  .horizontal-list li {
+    display: block;
+  }
+  
+  
+  
+  
+  
   
