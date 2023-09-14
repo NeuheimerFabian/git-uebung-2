@@ -4,7 +4,7 @@ body {
   
   header {
     background-color: grey;
-    color: rgb(0, 17, 255);
+    color: white;
     padding: 10px;
     text-align: center;
     border: 2px;
@@ -27,7 +27,7 @@ body {
   }
   
   footer {
-    background-color: grey;
+    background-color: rgb(128, 128, 128);
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -36,7 +36,6 @@ body {
     border-color: black;
   }
 
-  /* Menü-Tabelle */
   .menu-table {
     width: 100%;
     margin: 20px auto;
@@ -50,7 +49,6 @@ body {
     text-align: center;
   }
   
-  /* Menü-Listen */
   .menu-list {
     list-style: none;
     padding: 0;
@@ -72,7 +70,6 @@ body {
     color: #555;
   }
   
-  /* Horizontale Listen */
   .horizontal-list li {
     display: block;
   }
